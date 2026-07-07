@@ -357,6 +357,30 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// The Helmsman - A+ Tier PvE Niche Utility (Any Barrel/Mag)
+//notes: A+ Tier perks. Explosive Payload chips majors while Elemental Honing scales your damage up. |tags:axeraider15 pve
++is:weapon +name:"The Helmsman" perks:"Explosive Payload" perks:"Elemental Honing"
+
+
+
+// The Helmsman - 6/6 PvP Absolute God Roll (The Premium Lane Controller)
+//notes: S-Tier perks. Snapshot and Opening Shot provide maximum target tracking speed and accuracy. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"The Helmsman" perks:"Fluted Barrel" perks:"Accurized Rounds" perks:"Snapshot Sights" perks:"Opening Shot"
+
+
+// The Helmsman - A+ Tier PvP Traditional Lethality (Any Barrel/Mag)
+//notes: S-Tier perks. Snapshot Sights ensures immediate ADS, while Opening Shot secures long-range headshots. |tags:axeraider15 pvp
++is:weapon +name:"The Helmsman" perks:"Snapshot Sights" perks:"Opening Shot"
+
+// The Helmsman - A+ Tier PvP Aggressive Flank (Any Barrel/Mag)
+//notes: S-Tier perks. Lone Wolf boosts handling on isolated targets, while Opening Shot secures your initial kill. |tags:axeraider15 pvp
++is:weapon +name:"The Helmsman" perks:"Lone Wolf" perks:"Opening Shot"
+
+
+
+
+
+
 
 
 
@@ -367,7 +391,6 @@ description:wishlist by axeraider15 for the homies
 //Darkest Before
 //Joker's Longsword
 //Positive Outlook
-//The Helmsman
 //Diablerets 06
 //Cynosure
 //The Hothead
