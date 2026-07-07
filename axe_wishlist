@@ -391,19 +391,19 @@ description:wishlist by axeraider15 for the homies
 
 
 // Cynosure - A+ Tier Triple-Swap Rotation (Any Launch/Casing)
-//notes: S-Tier perks. Damage with all 3 weapons auto-loads the mag and triggers a 30% damage boost.|tags:axeraider15 pve
+//notes: S-Tier perks. Damage with all 3 weapons auto-loads the mag and triggers a 30% damage boost. |tags:axeraider15 pve
 +is:weapon +name:"Cynosure" perks:"Envious Arsenal" perks:"Bait and Switch"
 
 // Cynosure - A+ Tier Prismatic Min-Max (Any Launch/Casing)
-//notes: S-Tier perks. Passively overflows the magazine up to 2 shots with an elite 35% damage buff.|tags:axeraider15 pve
+//notes: S-Tier perks. Passively overflows the magazine up to 2 shots with an elite 35% damage buff. |tags:axeraider15 pve
 +is:weapon +name:"Cynosure" perks:"Reconstruction" perks:"Elemental Honing"
 
 // Cynosure - A+ Tier Burst Damage Swapping (Any Launch/Casing)
-//notes: A+ Tier perks. Envious auto-loads your rocket while Explosive Light guarantees maximum burst damage.|tags:axeraider15 pve
+//notes: A+ Tier perks. Envious auto-loads your rocket while Explosive Light guarantees maximum burst damage. |tags:axeraider15 pve
 +is:weapon +name:"Cynosure" perks:"Envious Arsenal" perks:"Explosive Light"
 
 // Cynosure - A+ Tier Lazy Passive DPS (Any Launch/Casing)
-//notes: A+ Tier perks. Reconstruction loads 2 rockets passively over time, freeing you up to use Bait and Switch.|tags:axeraider15 pve
+//notes: A+ Tier perks. Reconstruction loads 2 rockets passively over time, freeing you up to use Bait and Switch. |tags:axeraider15 pve
 +is:weapon +name:"Cynosure" perks:"Reconstruction" perks:"Bait and Switch"
 
 
@@ -417,7 +417,6 @@ description:wishlist by axeraider15 for the homies
 //Joker's Longsword
 //Positive Outlook
 //Diablerets 06
-//Cynosure
 //The Hothead
 //The Slammer
 //Eyes Unveiled
