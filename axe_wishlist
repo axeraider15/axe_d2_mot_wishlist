@@ -1,7 +1,6 @@
 title:AXE D2 Wishlist
 description:wishlist by axeraider15 for the homies
 
-
 // Mint Retrograde - 6/6 True God Roll (S-Tier Boss DPS)
 //notes: Perfect boss rotation god roll. Quick Launch, Appended Mag, Rewind, and Bait & Switch. |tags:axeraider15 pve pve-god
 +is:weapon +name:"Mint Retrograde" perks:"Quick Launch" perks:"Appended Mag" perks:"Rewind Rounds" perks:"Bait and Switch"
@@ -31,14 +30,75 @@ description:wishlist by axeraider15 for the homies
 +is:weapon +name:"Mint Retrograde" perks:"Slice" perks:"Hatchling"
 
 
-//Chattering Bone
+
+
+
+
+
+// Chattering Bone - 6/6 Absolute God Roll (S-Tier Double Damage Stack)
+//notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve pve-god
++is:weapon +name:"Chattering Bone" perks:"Arrowhead Brake" perks:"Tactical Mag" perks:"Kill Clip" perks:"Kinetic Tremors"
+
+// Chattering Bone - 6/6 Absolute God Roll (S-Tier Sustained Combat)
+//notes: S-Tier perks. Kill Clip scales up Chaos Reshaped for effortless damage stacking and healing. |tags:axeraider15 pve pve-god
++is:weapon +name:"Chattering Bone" perks:"Arrowhead Brake" perks:"Tactical Mag" perks:"Kill Clip" perks:"Chaos Reshaped"
+
+// Chattering Bone - A+ Tier Double Damage Stack (Any Barrel/Mag)
+//notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve
++is:weapon +name:"Chattering Bone" perks:"Kill Clip" perks:"Kinetic Tremors"
+
+// Chattering Bone - A+ Tier Sustained Combat (Any Barrel/Mag)
+//notes: S-Tier perks. Kill Clip scales up Chaos Reshaped for effortless damage stacking and healing. |tags:axeraider15 pve
++is:weapon +name:"Chattering Bone" perks:"Kill Clip" perks:"Chaos Reshaped"
+
+// Chattering Bone - A+ Tier Classic Kinetic Add-Clear (Any Barrel/Mag)
+//notes: A+ Tier perks. The classic double-damage roll. Melts red bars instantly. |tags:axeraider15 pve
++is:weapon +name:"Chattering Bone" perks:"Kill Clip" perks:"Rampage"
+
+// Chattering Bone - A+ Tier Neutral Consistency (Any Barrel/Mag)
+//notes: A+ Tier perks. Excellent reload utility paired with automatic AoE damage waves. |tags:axeraider15 pve
++is:weapon +name:"Chattering Bone" perks:"Rapid Hit" perks:"Kinetic Tremors"
+
+
+
+// Chattering Bone - 6/6 PvP Absolute God Roll (Kill-Chain Dominance)
+//notes: S-Tier perks. Kill Clip drops the optimal TTB significantly after a single reload.
++is:weapon +name:"Chattering Bone" perks:"Arrowhead Brake" perks:"Ricochet Rounds" perks:"Kill Clip" perks:"Headseeker" |tags:axeraider15 pvp pvp-god
+
+// Chattering Bone - 6/6 PvP Absolute God Roll (Neutral Consistency)
+//notes: S-Tier perks. Maximum forgiveness on precision shots without needing a kill setup.
++is:weapon +name:"Chattering Bone" perks:"Arrowhead Brake" perks:"Ricochet Rounds" perks:"Keep Away" perks:"Headseeker" |tags:axeraider15 pvp pvp-god
+
+// Chattering Bone - A+ Tier PvP Kill-Chain (Any Barrel/Mag)
+//notes: S-Tier perks. Kill Clip + Headseeker makes for an incredibly deadly combination. |tags:axeraider15 pvp
++is:weapon +name:"Chattering Bone" perks:"Kill Clip" perks:"Headseeker"
+
+// Chattering Bone - A+ Tier PvP Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Keep Away ensures high accuracy, while Headseeker fixes missed crits. |tags:axeraider15 pvp
++is:weapon +name:"Chattering Bone" perks:"Keep Away" perks:"Headseeker"
+
+// Chattering Bone - A+ Tier PvP Out-Of-Bounds (Any Barrel/Mag)
+//notes: A+ Tier perks. Rangefinder pushes zoom out, keeping you competitive at mid-to-long ranges. |tags:axeraider15 pvp
++is:weapon +name:"Chattering Bone" perks:"Keep Away" perks:"Rangefinder"
+
+
+
+
+
+
+
+
+
+
+
+//Prolonged Engagement
+
 //Adjudicator
 //Better Devils
 //Deadhorse 04
 //Judgement
 //Nameles Midnight
 //Nightshade
-//Prolonged Engagement
 //Convened recurve
 //Darkest Before
 //Joker's Longsword
