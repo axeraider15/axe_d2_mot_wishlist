@@ -18,13 +18,13 @@ dimwishlist:item=3285784871&perks=1063073990,3948508492,1118671607,2396489472
 // Mint Retrograde - A+ Tier Sustained DPS (Any Barrel/Mag)
 //notes: S-Tier perks. Check columns 1 & 2 yourself, but keep this weapon! |tags:axeraider15 pve
 #+is:weapon +name:"Mint Retrograde" perks:"Rewind Rounds" perks:"Bait and Switch","Elemental Honing"
-dimwishlist:item=3285784871&perks=1118671607,3302684804
+dimwishlist:item=3285784871&perks=1118671607,3078487919
 dimwishlist:item=3285784871&perks=1118671607,3134638341
 
 // Mint Retrograde - A+ Tier Holster Swapping (Any Barrel/Mag)
 //notes: A+ Tier perks. Great for quick weapon-swapping damage rotations. |tags:axeraider15 pve
 #+is:weapon +name:"Mint Retrograde" perks:"Envious Arsenal" perks:"Bait and Switch"
-dimwishlist:item=3285784871&perks=1605333061,3302684804
+dimwishlist:item=3285784871&perks=1605333061,3078487919
 
 // Mint Retrograde - A+ Tier Ultimate Ad-Clear (Any Barrel/Mag)
 //notes: S-Tier perks. Erases groups of enemies instantly. |tags:axeraider15
