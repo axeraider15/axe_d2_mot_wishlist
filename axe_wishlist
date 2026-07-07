@@ -200,9 +200,63 @@ description:wishlist by axeraider15 for the homies
 +is:weapon +name:"Blast Furnace" perks:"Keep Away" perks:"Kill Clip"
 
 
+// Adjudicator - 6/6 Absolute God Roll (S-Tier AOE Shield-Breaker)
+//notes: S-Tier perks. Subsistence keeps the mag full while Kinetic Tremors shockwaves erase grouped enemies. |tags:axeraider15 pve pve-god
++is:weapon +name:"Adjudicator" perks:"Hammer-Forged Rifling" perks:"Flared Magwell" perks:"Subsistence" perks:"Kinetic Tremors"
+
+// Adjudicator - 6/6 Absolute God Roll (S-Tier Fire Rate Machine)
+//notes: S-Tier perks. Feeding Frenzy completely nullifies the reload penalty when Onslaught's fire rate ramps up. |tags:axeraider15 pve pve-god
++is:weapon +name:"Adjudicator" perks:"Hammer-Forged Rifling" perks:"Flared Magwell" perks:"Feeding Frenzy" perks:"Onslaught"
 
 
-//Adjudicator
+// Adjudicator - A+ Tier AOE Shield-Breaker (Any Barrel/Mag)
+//notes: S-Tier perks. Subsistence keeps the mag full while Kinetic Tremors shockwaves erase grouped enemies. |tags:axeraider15 pve
++is:weapon +name:"Adjudicator" perks:"Subsistence" perks:"Kinetic Tremors"
+
+// Adjudicator - A+ Tier Fire Rate Machine (Any Barrel/Mag)
+//notes: S-Tier perks. Feeding Frenzy completely nullifies the reload penalty when Onslaught's fire rate ramps up. |tags:axeraider15 pve
++is:weapon +name:"Adjudicator" perks:"Feeding Frenzy" perks:"Onslaught"
+
+// Adjudicator - A+ Tier Infinite Shooting (Any Barrel/Mag)
+//notes: S-Tier perks. The ultimate low-tier ad-clear combo to tear through waves without reloading. |tags:axeraider15 pve
++is:weapon +name:"Adjudicator" perks:"Subsistence" perks:"Onslaught"
+
+// Adjudicator - A+ Tier End-Game Consistency (Any Barrel/Mag)
+//notes: A+ Tier perks. Free 15% damage and maxed handling/reload speed from Frenzy while staying in combat. |tags:axeraider15 pve
++is:weapon +name:"Adjudicator" perks:"Threat Detector" perks:"Frenzy"
+
+
+
+
+// Adjudicator - 6/6 PvP Absolute God Roll (The Premium Duelist)
+//notes: S-Tier perks. Dynamic Sway locks accuracy while Fragile Focus pushes range past auto rifle distances.
++is:weapon +name:"Adjudicator" perks:"Hammer-Forged Rifling","Full Bore" perks:"Accurized Rounds" perks:"Dynamic Sway Reduction" perks:"Fragile Focus" |tags:axeraider15 pvp pvp-god
+
+// Adjudicator - 6/6 PvP Absolute God Roll (Kill-Chain Dominance)
+//notes: S-Tier perks. Dynamic Sway maintains stability while Onslaught sends your Time-To-Kill into overdrive.
++is:weapon +name:"Adjudicator" perks:"Hammer-Forged Rifling","Full Bore" perks:"Accurized Rounds" perks:"Dynamic Sway Reduction" perks:"Onslaught" |tags:axeraider15 pvp pvp-god
+
+
+// Adjudicator - A+ Tier PvP Out-Ranging Duelist (Any Barrel/Mag)
+//notes: S-Tier perks. Dynamic Sway locks down accuracy while Fragile Focus grants a free massive range bump. |tags:axeraider15 pvp
++is:weapon +name:"Adjudicator" perks:"Dynamic Sway Reduction" perks:"Fragile Focus"
+
+// Adjudicator - A+ Tier PvP Fire Rate Ramp-Up (Any Barrel/Mag)
+//notes: S-Tier perks. Securing a single kill unlocks Onslaught, turning the gun into a terrifying bullet hose. |tags:axeraider15 pvp
++is:weapon +name:"Adjudicator" perks:"Dynamic Sway Reduction" perks:"Onslaught"
+
+// Adjudicator - A+ Tier PvP Close-Quarters Handling (Any Barrel/Mag)
+//notes: A+ Tier perks. Threat Detector maximizes handling when enemies are close, while Target Lock drops the optimal TTK. |tags:axeraider15 pvp
++is:weapon +name:"Adjudicator" perks:"Threat Detector" perks:"Target Lock"
+
+// Adjudicator - A+ Tier PvP Kinetic Synergy (Any Barrel/Mag)
+//notes: A+ Tier perks. Perpetual Motion boosts handling and stability on the move, while Frenzy helps clean up groups. |tags:axeraider15 pvp
++is:weapon +name:"Adjudicator" perks:"Perpetual Motion" perks:"Frenzy"
+
+
+
+
+
 //Better Devils
 //Deadhorse 04
 //Judgement
