@@ -315,9 +315,51 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Better Devils - 6/6 PvE Absolute God Roll (Grenade Engine)
+//notes: S-Tier perks. The only Strand 140 HC with Demolitionist + Frenzy. Infinite grenades and free damage. |tags:axeraider15 pve pve-god
++is:weapon +name:"Better Devils" perks:"Hammer-Forged Rifling","Smallbore" perks:"Tactical Mag","Flared Magwell" perks:"Demolitionist" perks:"Frenzy"
 
 
-//Better Devils
+// Better Devils - A+ Tier PvE Grenade Engine (Any Barrel/Mag)
+//notes: S-Tier perks. Demolitionist feeds you grenade energy, while Frenzy maxes out your reload speed. |tags:axeraider15 pve
++is:weapon +name:"Better Devils" perks:"Demolitionist" perks:"Frenzy"
+
+// Better Devils - A+ Tier PvE Strand Melee Synergy (Any Barrel/Mag)
+//notes: A+ Tier perks. Slice severs targets to lower their damage while Hatchling spawns friendly Threadlings. |tags:axeraider15 pve
++is:weapon +name:"Better Devils" perks:"Slice" perks:"Hatchling"
+
+
+
+
+// Better Devils - 6/6 PvP Absolute God Roll (The Premium Duelist)
+//notes: S-Tier perks. Slideshot bumps range on every slide while Precision Instrument guarantees an easy 3-tap. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Better Devils" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Slideshot" perks:"Precision Instrument"
+
+// Better Devils - 6/6 PvP Absolute God Roll (The Magnificent Two-Tap)
+//notes: S-Tier perks. Slideshot loads the mag, fueling Magnificent Howl to pull off incredible 2-tap headshots. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Better Devils" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Slideshot" perks:"Magnificent Howl"
+
+
+// Better Devils - A+ Tier PvP Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Effortless range buffs on slides combined with Precision Instrument's scaling damage. |tags:axeraider15 pvp
++is:weapon +name:"Better Devils" perks:"Slideshot" perks:"Precision Instrument"
+
+// Better Devils - A+ Tier PvP Magnificent Howl (Any Barrel/Mag)
+//notes: S-Tier perks. Collect precision kills to stack up massive damage bullets for easy follow-up engagements. |tags:axeraider15 pvp
++is:weapon +name:"Better Devils" perks:"Slideshot" perks:"Magnificent Howl"
+
+// Better Devils - A+ Tier PvP Classic Explosive (Any Barrel/Mag)
+//notes: A+ Tier perks. Moving Target fixes your aim assist while Explosive Payload heavily flinches opponents. |tags:axeraider15 pvp
++is:weapon +name:"Better Devils" perks:"Moving Target" perks:"Explosive Payload"
+
+
+
+
+
+
+
+
+
 //Deadhorse 04
 //Nameles Midnight
 //Nightshade
