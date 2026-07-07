@@ -380,6 +380,31 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Cynosure - 6/6 Absolute God Roll (S-Tier Triple-Swap Rotation)
+//notes: S-Tier perks. Envious Arsenal auto-loads, pairing perfectly with Bait and Switch's 30% damage boost. |tags:axeraider15 pve pve-god
++is:weapon +name:"Cynosure" perks:"Quick Launch","Hard Launch" perks:"Impact Casing" perks:"Envious Arsenal" perks:"Bait and Switch"
+
+// Cynosure - 6/6 Absolute God Roll (S-Tier Prismatic Min-Max)
+//notes: S-Tier perks. Reconstruction overflows the mag to 2, letting you fire consecutive 35% buffed rockets. |tags:axeraider15 pve pve-god
++is:weapon +name:"Cynosure" perks:"Quick Launch","Hard Launch" perks:"Impact Casing" perks:"Reconstruction" perks:"Elemental Honing"
+
+
+
+// Cynosure - A+ Tier Triple-Swap Rotation (Any Launch/Casing)
+//notes: S-Tier perks. Damage with all 3 weapons auto-loads the mag and triggers a 30% damage boost.|tags:axeraider15 pve
++is:weapon +name:"Cynosure" perks:"Envious Arsenal" perks:"Bait and Switch"
+
+// Cynosure - A+ Tier Prismatic Min-Max (Any Launch/Casing)
+//notes: S-Tier perks. Passively overflows the magazine up to 2 shots with an elite 35% damage buff.|tags:axeraider15 pve
++is:weapon +name:"Cynosure" perks:"Reconstruction" perks:"Elemental Honing"
+
+// Cynosure - A+ Tier Burst Damage Swapping (Any Launch/Casing)
+//notes: A+ Tier perks. Envious auto-loads your rocket while Explosive Light guarantees maximum burst damage.|tags:axeraider15 pve
++is:weapon +name:"Cynosure" perks:"Envious Arsenal" perks:"Explosive Light"
+
+// Cynosure - A+ Tier Lazy Passive DPS (Any Launch/Casing)
+//notes: A+ Tier perks. Reconstruction loads 2 rockets passively over time, freeing you up to use Bait and Switch.|tags:axeraider15 pve
++is:weapon +name:"Cynosure" perks:"Reconstruction" perks:"Bait and Switch"
 
 
 
