@@ -3,7 +3,9 @@ description:wishlist by axeraider15 for the homies
 
 // Mint Retrograde - 6/6 True God Roll (S-Tier Boss DPS)
 //notes: Perfect boss rotation god roll. Quick Launch, Appended Mag, Rewind, and Bait & Switch. |tags:axeraider15 pve pve-god
-dimwishlist:item=3285784871&perks=1063073990,3948508492,1118671607,3302684804
+#dimwishlist:item=3285784871&perks=1063073990,3948508492,1118671607,3302684804 -- this one is using the enhanced perks and is probably not corrent to do
+dimwishlist:item=3285784871&perks=1063073990,3948508492,1118671607,3078487919
+
 
 // Mint Retrograde - 6/6 True God Roll (S-Tier Prismatic)
 //notes: Perfect Prismatic build dream roll. Hits a 35% damage buff for 20 seconds. Quick Launch, Appended Mag, Rewind, and Elemental Honing. |tags:axeraider15 pve pve-god
