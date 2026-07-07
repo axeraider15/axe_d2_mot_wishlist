@@ -454,6 +454,51 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Punching Out - 6/6 PvE Absolute God Roll (S-Tier Close-Quarters Shredder)
+//notes: S-Tier perks. Subsistence keeps the full-auto mag loaded while Frenzy provides passive 15% damage and max reload. |tags:axeraider15 pve pve-god
++is:weapon +name:"Punching Out" perks:"Arrowhead Brake" perks:"Appended Mag","Tactical Mag" perks:"Subsistence" perks:"Frenzy"
+
+
+// Punching Out - A+ Tier PvE General Add-Clear (Any Barrel/Mag)
+//notes: S-Tier perks. Full-auto spray that naturally refills on kills combined with Frenzy's stat boosts. |tags:axeraider15 pve
++is:weapon +name:"Punching Out" perks:"Subsistence" perks:"Frenzy"
+
+// Punching Out - A+ Tier PvE Aggressive Health Regen (Any Barrel/Mag)
+//notes: S-Tier perks. Overflow doubles your mag from special bricks while Unrelenting triggers massive health chunks. |tags:axeraider15 pve
++is:weapon +name:"Punching Out" perks:"Overflow" perks:"Unrelenting"
+
+// Punching Out - A+ Tier PvE Close-Range Synergy (Any Barrel/Mag)
+//notes: A+ Tier perks. Threat Detector increases reload near targets while Surrounded scales up an massive 30% damage. |tags:axeraider15 pve
++is:weapon +name:"Punching Out" perks:"Threat Detector" perks:"Surrounded"
+
+
+
+
+
+// Punching Out - 6/6 PvP Absolute God Roll (S-Tier Kill-Chain Dominance)
+//notes: S-Tier perks. Rangefinder pushes out damage falloff while Kill Clip decreases your optimal TTK to a blistering 0.47s. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Punching Out" perks:"Hammer-Forged Rifling","Smallbore" perks:"High-Caliber Rounds","Ricochet Rounds" perks:"Rangefinder" perks:"Kill Clip"
+
+
+
+// Punching Out - A+ Tier PvP Traditional Lethality (Any Barrel/Mag)
+//notes: S-Tier perks. Rangefinder keeps your distance competitive while Kill Clip completely melts opposing Guardians. |tags:axeraider15 pvp
++is:weapon +name:"Punching Out" perks:"Rangefinder" perks:"Kill Clip"
+
+// Punching Out - A+ Tier PvP Stat-Chaining Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Encore chains stability/range boosts per kill to easily feed into a lethal Kill Clip active state. |tags:axeraider15 pvp
++is:weapon +name:"Punching Out" perks:"Encore" perks:"Kill Clip"
+
+// Punching Out - A+ Tier PvP High Mobility Dueling (Any Barrel/Mag)
+//notes: A+ Tier perks. Killing Wind grants massive handling and strafe range immediately after your opening gunfight win. |tags:axeraider15 pvp
++is:weapon +name:"Punching Out" perks:"Killing Wind" perks:"Kill Clip"
+
+
+
+
+
+
+
 //Deadhorse 04
 //Nameles Midnight
 //Nightshade
@@ -466,7 +511,6 @@ description:wishlist by axeraider15 for the homies
 //The Slammer
 //Eyes Unveiled
 //Roar of the Bear
-//Punching Out
 //Main Ingredient
 //Tahoma 01
 //Accelerando-42
