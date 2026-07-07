@@ -409,6 +409,51 @@ description:wishlist by axeraider15 for the homies
 
 
 
+
+// Unending Tempest - 6/6 PvE Absolute God Roll (S-Tier Infinite Stasis Loop)
+//notes: S-Tier perks. Demolitionist grants grenade energy on weapon kills and crystal shatters. Non-stop loops. |tags:axeraider15 pve pve-god
++is:weapon +name:"Unending Tempest" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Demolitionist" perks:"Headstone"
+
+
+// Unending Tempest - A+ Tier PvE Grenade Infinite Loop (Any Barrel/Mag)
+//notes: S-Tier perks. Demolitionist tracks Stasis crystal shatter kills from Headstone to infinitely spam grenades. |tags:axeraider15 pve
++is:weapon +name:"Unending Tempest" perks:"Demolitionist" perks:"Headstone"
+
+// Unending Tempest - A+ Tier PvE General Uptime (Any Barrel/Mag)
+//notes: S-Tier perks. Subsistence keeps the mag full while Frenzy locks down free damage and maximum reload. |tags:axeraider15 pve
++is:weapon +name:"Unending Tempest" perks:"Subsistence" perks:"Frenzy"
+
+// Unending Tempest - A+ Tier PvE Grenade Synergy (Any Barrel/Mag)
+//notes: A+ Tier perks. Weapon kills feed grenade energy, which directly boosts weapon damage via Adrenaline Junkie. |tags:axeraider15 pve
++is:weapon +name:"Unending Tempest" perks:"Demolitionist" perks:"Adrenaline Junkie"
+
+
+
+
+
+
+// Unending Tempest - 6/6 PvP Absolute God Roll (S-Tier Dueling Laser)
+//notes: S-Tier perks. Dynamic Sway continuously builds stability while Target Lock shrinks your optimal TTK. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Unending Tempest" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Dynamic Sway Reduction" perks:"Target Lock"
+
+
+// Unending Tempest - A+ Tier PvP Lethality Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Dynamic Sway locks accuracy through flinch while Target Lock decreases optimal time-to-kill. |tags:axeraider15 pvp
++is:weapon +name:"Unending Tempest" perks:"Dynamic Sway Reduction" perks:"Target Lock"
+
+// Unending Tempest - A+ Tier PvP Max Range Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Moving Target adds strafe accuracy while Fragile Focus grants a free, massive +20 Range bonus. |tags:axeraider15 pvp
++is:weapon +name:"Unending Tempest" perks:"Moving Target" perks:"Fragile Focus"
+
+// Unending Tempest - A+ Tier PvP High Stability Dueling (Any Barrel/Mag)
+//notes: A+ Tier perks. Keep Away increases accuracy at range while Tap the Trigger completely removes initial burst recoil. |tags:axeraider15 pvp
++is:weapon +name:"Unending Tempest" perks:"Keep Away" perks:"Tap the Trigger"
+
+
+
+
+
+
 //Deadhorse 04
 //Nameles Midnight
 //Nightshade
@@ -424,7 +469,6 @@ description:wishlist by axeraider15 for the homies
 //Punching Out
 //Main Ingredient
 //Tahoma 01
-//Unending Tempest
 //Accelerando-42
 //Fractethyst
 //Vengeful Whisper
