@@ -3,32 +3,36 @@ description:wishlist by axeraider15 for the homies
 
 // Mint Retrograde - 6/6 True God Roll (S-Tier Boss DPS)
 //notes: Perfect boss rotation god roll. Quick Launch, Appended Mag, Rewind, and Bait & Switch. |tags:axeraider15 pve pve-god
-#+is:weapon +name:"Mint Retrograde" perks:"Quick Launch" perks:"Appended Mag" perks:"Rewind Rounds" perks:"Bait and Switch"
 dimwishlist:item=3735165842&perks=1063073990,3948508492,1118671607,3302684804
 
 // Mint Retrograde - 6/6 True God Roll (S-Tier Prismatic)
 //notes: Perfect Prismatic build dream roll. Hits a 35% damage buff for 20 seconds. Quick Launch, Appended Mag, Rewind, and Elemental Honing. |tags:axeraider15 pve pve-god
-+is:weapon +name:"Mint Retrograde" perks:"Quick Launch" perks:"Appended Mag" perks:"Rewind Rounds" perks:"Elemental Honing"
+dimwishlist:item=3735165842&perks=1063073990,3948508492,1118671607,3134638341
 
 // Mint Retrograde - 6/6 Absolute God Roll (S-Tier Ad-Clear)
 //notes: Perfect mob-clearing roll. Quick Launch and Appended Mag combined with Rewind and Chain Reaction. |tags:axeraider15 pve pve-god
-+is:weapon +name:"Mint Retrograde" perks:"Quick Launch" perks:"Appended Mag" perks:"Rewind Rounds" perks:"Chain Reaction"
+dimwishlist:item=3735165842&perks=1063073990,3948508492,1118671607,2396489472
 
 // Mint Retrograde - A+ Tier Sustained DPS (Any Barrel/Mag)
 //notes: S-Tier perks. Check columns 1 & 2 yourself, but keep this weapon! |tags:axeraider15 pve
-+is:weapon +name:"Mint Retrograde" perks:"Rewind Rounds" perks:"Bait and Switch","Elemental Honing"
+#+is:weapon +name:"Mint Retrograde" perks:"Rewind Rounds" perks:"Bait and Switch","Elemental Honing"
+dimwishlist:item=42435996&perks=1118671607,3302684804
+dimwishlist:item=42435996&perks=1118671607,3134638341
 
 // Mint Retrograde - A+ Tier Holster Swapping (Any Barrel/Mag)
 //notes: A+ Tier perks. Great for quick weapon-swapping damage rotations. |tags:axeraider15 pve
-+is:weapon +name:"Mint Retrograde" perks:"Envious Arsenal" perks:"Bait and Switch"
+#+is:weapon +name:"Mint Retrograde" perks:"Envious Arsenal" perks:"Bait and Switch"
+dimwishlist:item=42435996&perks=1605333061,3302684804
 
 // Mint Retrograde - A+ Tier Ultimate Ad-Clear (Any Barrel/Mag)
 //notes: S-Tier perks. Erases groups of enemies instantly. |tags:axeraider15
-+is:weapon +name:"Mint Retrograde" perks:"Rewind Rounds" perks:"Chain Reaction"
+#+is:weapon +name:"Mint Retrograde" perks:"Rewind Rounds" perks:"Chain Reaction"
+dimwishlist:item=42435996&perks=1118671607,2396489472
 
 // Mint Retrograde - A+ Tier Strand Subclass Synergy (Any Barrel/Mag)
 //notes: A+ Tier perks. Utility for Strand and Prismatic builds. |tags:axeraider15 pve
-+is:weapon +name:"Mint Retrograde" perks:"Slice" perks:"Hatchling"
+#+is:weapon +name:"Mint Retrograde" perks:"Slice" perks:"Hatchling"
+dimwishlist:item=42435996&perks=1605634568,1051515233
 
 
 
