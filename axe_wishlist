@@ -256,10 +256,69 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Judgment - 6/6 Absolute God Roll (S-Tier Stasis/Prismatic Engine)
+//notes: S-Tier perks. Headstone creates crystals while Rimestealer grants Frost Armor upon breaking them. |tags:axeraider15 pve pve-god
++is:weapon +name:"Judgment" perks:"Fluted Barrel" perks:"Flared Magwell","Tactical Mag" perks:"Headstone" perks:"Rimestealer"
+
+// Judgment - 6/6 Absolute God Roll (S-Tier Grenade Spammer)
+//notes: S-Tier perks. Demolitionist feeds you grenade energy, and Adrenaline Junkie builds a free 33% damage buff. |tags:axeraider15 pve pve-god
++is:weapon +name:"Judgment" perks:"Fluted Barrel" perks:"Flared Magwell","Tactical Mag" perks:"Demolitionist" perks:"Adrenaline Junkie"
+
+
+// Judgment - A+ Tier Stasis/Prismatic Engine (Any Barrel/Mag)
+//notes: S-Tier perks. Headstone creates crystals while Rimestealer grants Frost Armor upon breaking them. |tags:axeraider15 pve
++is:weapon +name:"Judgment" perks:"Headstone" perks:"Rimestealer"
+
+// Judgment - A+ Tier Grenade Spammer (Any Barrel/Mag)
+//notes: S-Tier perks. Demolitionist feeds grenade energy, while Adrenaline Junkie stacks up raw damage. |tags:axeraider15 pve
++is:weapon +name:"Judgment" perks:"Demolitionist" perks:"Adrenaline Junkie"
+
+// Judgment - A+ Tier Prismatic Aggression (Any Barrel/Mag)
+//notes: A+ Tier perks. Rapid Hit grants lightning-fast reloads, while Paracausal Affinity buffs damage after Light/Dark kills. |tags:axeraider15 pve
++is:weapon +name:"Judgment" perks:"Rapid Hit" perks:"Paracausal Affinity"
+
+// Judgment - A+ Tier Endgame Shield-Changer (Any Barrel/Mag)
+//notes: A+ Tier perks. Demolitionist auto-reloads the gun while Timed Payload flinches majors and bypasses shields. |tags:axeraider15 pve
++is:weapon +name:"Judgment" perks:"Demolitionist" perks:"Timed Payload"
+
+
+
+
+// Judgment - 6/6 PvP Absolute God Roll (The Premium Duelist)
+//notes: S-Tier perks. Moving Target gives free aim assist while Eye of the Storm wins tight, low-health duels.
++is:weapon +name:"Judgment" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Moving Target" perks:"Eye of the Storm" |tags:axeraider15 pvp pvp-god
+
+// Judgment - 6/6 PvP Absolute God Roll (High-Impact Flincher)
+//notes: S-Tier perks. Slideshot bumps range and auto-reloads, while Timed Payload heavily flinches opponents' crosshairs.
++is:weapon +name:"Judgment" perks:"Hammer-Forged Rifling","Smallbore" perks:"Accurized Rounds" perks:"Slideshot" perks:"Timed Payload" |tags:axeraider15 pvp pvp-god
+
+
+
+// Judgment - A+ Tier PvP Precision Duelist (Any Barrel/Mag)
+//notes: S-Tier perks. Moving Target gives passive strafe speed and accuracy, while Eye of the Storm tightens your accuracy cone. |tags:axeraider15 pvp
++is:weapon +name:"Judgment" perks:"Moving Target" perks:"Eye of the Storm"
+
+// Judgment - A+ Tier PvP Aggressive Flincher (Any Barrel/Mag)
+//notes: S-Tier perks. Slideshot boosts your opening shot range, while Timed Payload splits damage to delay enemy health recovery. |tags:axeraider15 pvp
++is:weapon +name:"Judgment" perks:"Slideshot" perks:"Timed Payload"
+
+// Judgment - A+ Tier PvP Quick-Swap Flanking (Any Barrel/Mag)
+//notes: A+ Tier perks. Slideshot keeps the mag fed on the move, while Opening Shot guarantees a massive range/accuracy boost on your first bullet. |tags:axeraider15 pvp
++is:weapon +name:"Judgment" perks:"Slideshot" perks:"Opening Shot"
+
+// Judgment - A+ Tier PvP Stasis Dueling (Any Barrel/Mag)
+//notes: A+ Tier perks. Moving Target aids target tracking, while Rimestealer gives defensive utility if you shatter an enemy crystal. |tags:axeraider15 pvp
++is:weapon +name:"Judgment" perks:"Moving Target" perks:"Rimestealer"
+
+
+
+
+
+
+
 
 //Better Devils
 //Deadhorse 04
-//Judgement
 //Nameles Midnight
 //Nightshade
 //Convened recurve
