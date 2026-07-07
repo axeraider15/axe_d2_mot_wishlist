@@ -47,3 +47,9 @@ Maybe have folder for legacy version of the same weaps. depends
 we def want the slight explain of why, maybe how the 2 main perks interact per line.. idk if worth it
 or better to just say S vs A+ and PVE vs PVP -- rather than the full write up
 
+I will need to go over the ones i have already and clean them up
+
+##Ask AI###########################################################
+Let's continue building my human-readable DIM wishlist for the Moments of Triumph weapons. 
+Please provide the concise S-Tier (6/6 strict) and A+ Tier (2/2 any barrel/mag) lines for both PvE and PvP for the following weapon(s): [Insert Weapon Name Here]
+Make sure the notes section matches the clean, supplemental format we used previously (e.g., //notes: S-Tier perks. Description of synergy.).
