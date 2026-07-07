@@ -85,13 +85,59 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Prolonged Engagement - 6/6 Absolute God Roll (S-Tier Stasis Subclass Loop)
+//notes: S-Tier perks. Subsistence kills shatter Headstone crystals to constantly auto-reload. |tags:axeraider15 pve pve-god
++is:weapon +name:"Prolonged Engagement" perks:"Corkscrew Rifling" perks:"Flared Magwell" perks:"Subsistence" perks:"Headstone"
+
+// Prolonged Engagement - 6/6 Absolute God Roll (S-Tier General Add-Clear)
+//notes: S-Tier perks. Maximum uptime and passive 15% damage/reload buff from Frenzy. |tags:axeraider15 pve pve-god
++is:weapon +name:"Prolonged Engagement" perks:"Corkscrew Rifling" perks:"Appended Mag" perks:"Subsistence" perks:"Frenzy"
+
+// Prolonged Engagement - A+ Tier Stasis Synergy (Any Barrel/Mag)
+//notes: S-Tier perks. Subsistence kills shatter Headstone crystals to constantly auto-reload. |tags:axeraider15 pve
++is:weapon +name:"Prolonged Engagement" perks:"Subsistence" perks:"Headstone"
+
+// Prolonged Engagement - A+ Tier Maximum Uptime (Any Barrel/Mag)
+//notes: S-Tier perks. Subsistence paired with Frenzy allows you to shoot forever in low-tier content. |tags:axeraider15 pve
++is:weapon +name:"Prolonged Engagement" perks:"Subsistence" perks:"Frenzy"
+
+// Prolonged Engagement - A+ Tier Raw Damage Scaling (Any Barrel/Mag)
+//notes: A+ Tier perks. Hitting 3 targets grants a massive 35% damage buff. Great for higher difficulties. |tags:axeraider15 pve
++is:weapon +name:"Prolonged Engagement" perks:"Feeding Frenzy" perks:"One for All"
+
+// Prolonged Engagement - A+ Tier Bullet Hose (Any Barrel/Mag)
+//notes: A+ Tier perks. Fourth Time's the Charm constantly feeds ammo to stack up Target Lock damage. |tags:axeraider15 pve
++is:weapon +name:"Prolonged Engagement" perks:"Fourth Time's the Charm" perks:"Target Lock"
+
+
+// Prolonged Engagement - 6/6 PvP Absolute God Roll (Maximum Range Dueling)
+//notes: S-Tier perks. Dynamic Sway locks down accuracy while Rangefinder pushes out damage falloff. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Prolonged Engagement" perks:"Hammer-Forged Rifling" perks:"Ricochet Rounds" perks:"Dynamic Sway Reduction" perks:"Rangefinder"
+
+// Prolonged Engagement - 6/6 PvP Absolute God Roll (Kill-Chain Dominance)
+//notes: S-Tier perks. Dynamic Sway maintains stability while Target Lock decreases your optimal Time-To-Kill.|tags:axeraider15 pvp pvp-god
++is:weapon +name:"Prolonged Engagement" perks:"Hammer-Forged Rifling" perks:"Ricochet Rounds" perks:"Dynamic Sway Reduction" perks:"Target Lock"
+
+// Prolonged Engagement - A+ Tier PvP Precision Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Dynamic Sway locks down accuracy while Rangefinder pushes out damage falloff. |tags:axeraider15 pvp
++is:weapon +name:"Prolonged Engagement" perks:"Dynamic Sway Reduction" perks:"Rangefinder"
+
+// Prolonged Engagement - A+ Tier PvP Lethality Scaling (Any Barrel/Mag)
+//notes: S-Tier perks. Dynamic Sway maintains stability while Target Lock decreases your optimal Time-To-Kill. |tags:axeraider15 pvp
++is:weapon +name:"Prolonged Engagement" perks:"Dynamic Sway Reduction" perks:"Target Lock"
+
+// Prolonged Engagement - A+ Tier PvP High-Impact Flanking (Any Barrel/Mag)
+//notes: A+ Tier perks. Perpetual Motion grants passive handling/stability, while Killing Wind boosts range after a kill. |tags:axeraider15 pvp
++is:weapon +name:"Prolonged Engagement" perks:"Perpetual Motion" perks:"Killing Wind"
+
+// Prolonged Engagement - A+ Tier PvP Ability Engine (Any Barrel/Mag)
+//notes: A+ Tier perks. Dynamic Sway locks down accuracy while Eye of the Storm wins close duels. |tags:axeraider15 pvp
++is:weapon +name:"Prolonged Engagement" perks:"Dynamic Sway Reduction" perks:"Eye of the Storm"
 
 
 
 
 
-
-//Prolonged Engagement
 
 //Adjudicator
 //Better Devils
