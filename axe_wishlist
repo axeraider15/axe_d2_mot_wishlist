@@ -137,6 +137,69 @@ description:wishlist by axeraider15 for the homies
 
 
 
+// Blast Furnace - 6/6 Absolute God Roll (S-Tier Sustained Endgame)
+//notes: S-Tier perks. Kinetic Tremors shockwaves automatically count toward proccing One for All's 35% buff. |tags:axeraider15 pve pve-god
++is:weapon +name:"Blast Furnace" perks:"Arrowhead Brake" perks:"Tactical Mag" perks:"Kinetic Tremors" perks:"One for All"
+
+// Blast Furnace - 6/6 Absolute God Roll (S-Tier General Add-Clear)
+//notes: S-Tier perks. Explosive room clearer. Firefly kills speed up reload, feeding into non-stop Kinetic Tremors. |tags:axeraider15 pve pve-god
++is:weapon +name:"Blast Furnace" perks:"Arrowhead Brake" perks:"Tactical Mag" perks:"Kinetic Tremors" perks:"Firefly"
+
+// Blast Furnace - 6/6 Absolute God Roll (S-Tier Infinite Combat)
+//notes: S-Tier perks. Kinetic Tremors chunks beefy targets while Chaos Reshaped passively builds massive damage/healing. |tags:axeraider15 pve pve-god
++is:weapon +name:"Blast Furnace" perks:"Arrowhead Brake" perks:"Tactical Mag" perks:"Kinetic Tremors" perks:"Chaos Reshaped"
+
+
+
+// Blast Furnace - A+ Tier Sustained Endgame (Any Barrel/Mag)
+//notes: S-Tier perks. Kinetic Tremors waves easily proc the 35% damage buff from One for All. |tags:axeraider15 pve
++is:weapon +name:"Blast Furnace" perks:"Kinetic Tremors" perks:"One for All"
+
+// Blast Furnace - A+ Tier General Add-Clear (Any Barrel/Mag)
+//notes: S-Tier perks. Kinetic Tremors deals with bulky majors while Firefly explosions melt trash mobs. |tags:axeraider15 pve
++is:weapon +name:"Blast Furnace" perks:"Kinetic Tremors" perks:"Firefly"
+
+// Blast Furnace - A+ Tier Infinite Combat (Any Barrel/Mag)
+//notes: S-Tier perks. Effortless Kinetic Tremors bursts combined with Chaos Reshaped's scaling damage/healing. |tags:axeraider15 pve
++is:weapon +name:"Blast Furnace" perks:"Kinetic Tremors" perks:"Chaos Reshaped"
+
+// Blast Furnace - A+ Tier Maximum Frenzy Uptime (Any Barrel/Mag)
+//notes: A+ Tier perks. Free, passive 15% damage buff and maxed-out reload speed from Frenzy. |tags:axeraider15 pve
++is:weapon +name:"Blast Furnace" perks:"Kinetic Tremors" perks:"Frenzy"
+
+// Blast Furnace - A+ Tier Utility Scavenger (Any Barrel/Mag)
+//notes: A+ Tier perks. Collect ammo/orbs from a safe distance using Shoot to Loot and Firefly. |tags:axeraider15 pve
++is:weapon +name:"Blast Furnace" perks:"Shoot to Loot" perks:"Firefly"
+
+
+
+
+// Blast Furnace - 6/6 PvP Absolute God Roll (The Premium Two-Burst)
+//notes: S-Tier perks. Keep Away tightens accuracy while Headseeker completely transforms the burst forgiveness. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Blast Furnace" perks:"Arrowhead Brake" perks:"Steady Rounds" perks:"Keep Away" perks:"Headseeker"
+
+// Blast Furnace - 6/6 PvP Absolute God Roll (Kill-Chain Dominance)
+//notes: S-Tier perks. Securing one kill unlocks Desperado, sending your fire rate into overdrive. |tags:axeraider15 pvp pvp-god
++is:weapon +name:"Blast Furnace" perks:"Arrowhead Brake" perks:"Steady Rounds" perks:"Zen Moment" perks:"Desperado"
+
+
+// Blast Furnace - A+ Tier PvP Dueling (Any Barrel/Mag)
+//notes: S-Tier perks. Keep Away + Headseeker makes securing the optimal two-burst kill incredibly forgiving. |tags:axeraider15 pvp
++is:weapon +name:"Blast Furnace" perks:"Keep Away" perks:"Headseeker"
+
+// Blast Furnace - A+ Tier PvP Anti-Flinch Beam (Any Barrel/Mag)
+//notes: S-Tier perks. Zen Moment makes you immune to flinch while Headseeker saves your missed crits. |tags:axeraider15 pvp
++is:weapon +name:"Blast Furnace" perks:"Zen Moment" perks:"Headseeker"
+
+// Blast Furnace - A+ Tier PvP Fire Rate Machine (Any Barrel/Mag)
+//notes: S-Tier perks. Zen Moment keeps the 4-round burst incredibly stable to easily trigger Desperado. |tags:axeraider15 pvp
++is:weapon +name:"Blast Furnace" perks:"Zen Moment" perks:"Desperado"
+
+// Blast Furnace - A+ Tier PvP Classic Kill Clip (Any Barrel/Mag)
+//notes: A+ Tier perks. Keep Away increases your opening duel range, while Kill Clip secures easy follow-up kills. |tags:axeraider15 pvp
++is:weapon +name:"Blast Furnace" perks:"Keep Away" perks:"Kill Clip"
+
+
 
 
 //Adjudicator
@@ -159,7 +222,6 @@ description:wishlist by axeraider15 for the homies
 //Punching Out
 //Main Ingredient
 //Tahoma 01
-//Blast Furnace
 //Unending Tempest
 //Accelerando-42
 //Fractethyst
