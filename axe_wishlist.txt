@@ -44,39 +44,32 @@ dimwishlist:item=3285784871&perks=1605634568,1051515233
 
 // Chattering Bone - 6/6 Absolute God Roll (S-Tier Double Damage Stack)
 //notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve pve-god
-dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3891533548#notes:Chattering Bone PvE God Roll (Kill Clip + Kinetic Tremors)
-dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3891533548#notes:Chattering Bone PvE God Roll (Kill Clip + Kinetic Tremors)
+dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3891533548
+dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3891533548
 
 
 // Chattering Bone - 6/6 Absolute God Roll (S-Tier Sustained Combat)
 //notes: S-Tier perks. Kill Clip scales up Chaos Reshaped for effortless damage stacking and healing. |tags:axeraider15 pve pve-god
-dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3229558981#notes:Chattering Bone Double Damage Roll (Kill Clip + Chaos Reshaped)
-dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3229558981#notes:Chattering Bone Double Damage Roll (Kill Clip + Chaos Reshaped)
+dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3640170453
+dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3640170453
 
 
 // Chattering Bone - A+ Tier Double Damage Stack (Any Barrel/Mag)
 //notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=1015611457,3891533548#notes:Chattering Bone (Kill Clip + Kinetic Tremors)
-dimwishlist:item=830651379&perks=1015611457,3891533548#notes:Chattering Bone (Kill Clip + Kinetic Tremors)
+dimwishlist:item=4157371152&perks=1015611457,3891533548
+dimwishlist:item=830651379&perks=1015611457,3891533548
 
 
 
 // Chattering Bone - A+ Tier Sustained Combat (Any Barrel/Mag)
 //notes: S-Tier perks. Kill Clip scales up Chaos Reshaped for effortless damage stacking and healing. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=1015611457,3229558981#notes:Chattering Bone (Kill Clip + Chaos Reshaped)
-dimwishlist:item=830651379&perks=1015611457,3229558981#notes:Chattering Bone (Kill Clip + Chaos Reshaped)
-
-
-// Chattering Bone - A+ Tier Classic Kinetic Add-Clear (Any Barrel/Mag)
-//notes: A+ Tier perks. The classic double-damage roll. Melts red bars instantly. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=1015611457,3425386926#notes:Chattering Bone Classic Double Damage Roll (Kill Clip + Rampage)
-dimwishlist:item=830651379&perks=1015611457,3425386926#notes:Chattering Bone Classic Double Damage Roll (Kill Clip + Rampage)
-
+dimwishlist:item=4157371152&perks=1015611457,3640170453
+dimwishlist:item=830651379&perks=1015611457,3640170453
 
 // Chattering Bone - A+ Tier Neutral Consistency (Any Barrel/Mag)
 //notes: A+ Tier perks. Excellent reload utility paired with automatic AoE damage waves. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=2477104184,3891533548#notes:Chattering Bone PvE Precision Setup (Rapid Hit + Kinetic Tremors)
-dimwishlist:item=830651379&perks=2477104184,3891533548#notes:Chattering Bone PvE Precision Setup (Rapid Hit + Kinetic Tremors)
+dimwishlist:item=4157371152&perks=2477104184,3891536761
+dimwishlist:item=830651379&perks=2477104184,3891536761
 
 
 
