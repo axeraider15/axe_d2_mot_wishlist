@@ -1,4 +1,8 @@
-In the long run this will be more structured
+Only adding things that we get a lot of, reqs from homies
+Or super specific combos with a note
+
+
+In the long run this will be more structured --- idk if we want to do this, since not planning on doing EVERY weap
 
 📁 destiny2-wishlists (Your Repository)
  ┣ 📄 README.md (Brief instructions for yourself)
@@ -53,3 +57,9 @@ I will need to go over the ones i have already and clean them up
 Let's continue building my human-readable DIM wishlist for the Moments of Triumph weapons. 
 Please provide the concise S-Tier (6/6 strict) and A+ Tier (2/2 any barrel/mag) lines for both PvE and PvP for the following weapon(s): [Insert Weapon Name Here]
 Make sure the notes section matches the clean, supplemental format we used previously (e.g., //notes: S-Tier perks. Description of synergy.).
+
+#######################################################################
+thinking of adding method of 4 perk, 3s, then 2s
+this way we get the god roll, then with barrel mags optional, then with just perk3+4
+This will also allow consolidation of the exiting ones we can put them under eachother and just have S tier or A+ tier and notes based on the 3+4 perk combo
+edit the mint retrograde and push change, see if we find a better one in game eventually
