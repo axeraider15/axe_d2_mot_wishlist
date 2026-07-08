@@ -44,8 +44,8 @@ dimwishlist:item=3285784871&perks=1605634568,1051515233
 
 // Chattering Bone - 6/6 Absolute God Roll (S-Tier Double Damage Stack)
 //notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve pve-god
-dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3891533548
-dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3891533548
+dimwishlist:item=4157371152&perks=839105230,106909392,1015611457,3891536761
+dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3891536761
 
 
 // Chattering Bone - 6/6 Absolute God Roll (S-Tier Sustained Combat)
@@ -56,9 +56,8 @@ dimwishlist:item=830651379&perks=839105230,106909392,1015611457,3640170453
 
 // Chattering Bone - A+ Tier Double Damage Stack (Any Barrel/Mag)
 //notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=1015611457,3891533548
-dimwishlist:item=830651379&perks=1015611457,3891533548
-
+dimwishlist:item=4157371152&perks=1015611457,3891536761
+dimwishlist:item=830651379&perks=1015611457,3891536761
 
 
 // Chattering Bone - A+ Tier Sustained Combat (Any Barrel/Mag)
@@ -67,9 +66,9 @@ dimwishlist:item=4157371152&perks=1015611457,3640170453
 dimwishlist:item=830651379&perks=1015611457,3640170453
 
 // Chattering Bone - A+ Tier Neutral Consistency (Any Barrel/Mag)
-//notes: A+ Tier perks. Excellent reload utility paired with automatic AoE damage waves. |tags:axeraider15 pve
-dimwishlist:item=4157371152&perks=2477104184,3891536761
-dimwishlist:item=830651379&perks=2477104184,3891536761
+//notes: A+ Tier perks. Rapid hit + kinetic trem. Excellent reload utility paired with automatic AoE damage waves. |tags:axeraider15 pve
+dimwishlist:item=4157371152&perks=247725512,3891536761
+dimwishlist:item=830651379&perks=247725512,3891536761
 
 
 
