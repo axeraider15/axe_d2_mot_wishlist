@@ -94,10 +94,6 @@ dimwishlist:item=3285784871&(2173046394,2396489472 //notes:AdClear- CR+Voltshot
 
 
 
-// Mint Retrograde PVE - contains 3 PVE GRolls 
-//notes: GOD-tier GRoll- Boss RR+BnS, Prismatic RR+EH, AdCLear RR+CR (Quick Launch + Appended Mag)- axeraider15 pve
-
-
 
 
 
