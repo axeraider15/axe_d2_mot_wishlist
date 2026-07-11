@@ -89,7 +89,7 @@ dimwishlist:item=1692109318&perks=2010801679,2173046394,2396489472 //notes:AdCle
 dimwishlist:item=1692109318&perks=113508675,1115162408 //notes:Boss DPS- TrickleC+ReaperT
 dimwishlist:item=1692109318&perks=654512643,1115162408 //notes:Boss DPS- TrickleC+GearS
 dimwishlist:item=1692109318&perks=2010801679,2173046394 //notes:AdClear- AA+Voltshot
-dimwishlist:item=1692109318&perks=2173046394,2396489472 //notes:AdClear- CR+Voltshot
+dimwishlist:item=1692109318&perks=2173046394,2396489472 //AdClear- CR+Voltshot [axeraider15 pve]
 
 
 
