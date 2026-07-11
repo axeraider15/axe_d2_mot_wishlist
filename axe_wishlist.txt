@@ -72,24 +72,24 @@ dimwishlist:item=3285784871&perks=1605634568,1051515233
 
 
 //Salvager's Salvo PVE - contains 3 PVE GRolls
-dimwishlist:item=3285784871&perks=113508675,654512643,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS .. AdClear- AA+Voltshot
-dimwishlist:item=3285784871&perks=113508675,654512643,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot
-dimwishlist:item=3285784871&perks=113508675,1115162408,2010801679,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- CR+Voltshot .. AdClear- AA+Voltshot
-dimwishlist:item=3285784871&perks=654512643,1115162408,2010801679,2173046394,2396489472 //notes:Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=113508675,654512643,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=113508675,654512643,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot
+dimwishlist:item=1692109318&perks=113508675,1115162408,2010801679,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- CR+Voltshot .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=654512643,1115162408,2010801679,2173046394,2396489472 //notes:Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot .. AdClear- AA+Voltshot
 
 //Salvager's Salvo PVE - contains 2 PVE GRolls
-dimwishlist:item=3285784871&perks=113508675,654512643,1115162408 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS
-dimwishlist:item=3285784871&perks=113508675,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- AA+Voltshot
-dimwishlist:item=3285784871&perks=113508675,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- CR+Voltshot
-dimwishlist:item=3285784871&perks=654512643,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+GearS .. AdClear- AA+Voltshot
-dimwishlist:item=3285784871&perks=654512643,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot
-dimwishlist:item=3285784871&perks=2010801679,2173046394,2396489472 //notes:AdClear- CR+Voltshot .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=113508675,654512643,1115162408 //notes:Boss DPS- TrickleC+ReaperT .. Boss DPS- TrickleC+GearS
+dimwishlist:item=1692109318&perks=113508675,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=113508675,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+ReaperT .. AdClear- CR+Voltshot
+dimwishlist:item=1692109318&perks=654512643,1115162408,2010801679,2173046394 //notes:Boss DPS- TrickleC+GearS .. AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=654512643,1115162408,2173046394,2396489472 //notes:Boss DPS- TrickleC+GearS .. AdClear- CR+Voltshot
+dimwishlist:item=1692109318&perks=2010801679,2173046394,2396489472 //notes:AdClear- CR+Voltshot .. AdClear- AA+Voltshot
 
 //Salvager's Salvo PVE
-dimwishlist:item=3285784871&perks=113508675,1115162408 //notes:Boss DPS- TrickleC+ReaperT
-dimwishlist:item=3285784871&perks=654512643,1115162408 //notes:Boss DPS- TrickleC+GearS
-dimwishlist:item=3285784871&perks=2010801679,2173046394 //notes:AdClear- AA+Voltshot
-dimwishlist:item=3285784871&perks=2173046394,2396489472 //notes:AdClear- CR+Voltshot
+dimwishlist:item=1692109318&perks=113508675,1115162408 //notes:Boss DPS- TrickleC+ReaperT
+dimwishlist:item=1692109318&perks=654512643,1115162408 //notes:Boss DPS- TrickleC+GearS
+dimwishlist:item=1692109318&perks=2010801679,2173046394 //notes:AdClear- AA+Voltshot
+dimwishlist:item=1692109318&perks=2173046394,2396489472 //notes:AdClear- CR+Voltshot
 
 
 
