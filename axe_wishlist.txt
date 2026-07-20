@@ -192,7 +192,13 @@ dimwishlist:item=822872238&perks=365154968,1955165503,2579169598,2846385770,2922
 dimwishlist:item=822872238&perks=365154968,1955165503,2579169598,2846385770,2922950962,3828510309,4049631843 //PVE AllAround- Rime+CrystalBloom .. PVE AllAround- Rime+One4All .. PVE AllAround- EnlightAct+One4All .. PVP AllAround- RangeFind+TargLock .. PVP AllAround- LoneWolf+TargLock [axeraider15]
 
 
-
+// Convened Recurve (Bow)
+dimwishlist:item=3667861447&perks=588594999, 957782887 //PVP AllAround- MovTarg+Snapshot [axeraider15]
+dimwishlist:item=3667861447&perks=776531651, 2048641572 //PVE AllAround- RepBrace+Destable [axeraider15]
+dimwishlist:item=3667861447&perks=588594999, 776531651, 957782887, 2048641572 //PVE AllAround- RepBrace+Destable .. PVP AllAround- MovTarg+Snapshot [axeraider15]
+dimwishlist:item=2271714488&perks=588594999, 957782887 //PVP AllAround- MovTarg+Snapshot [axeraider15]
+dimwishlist:item=2271714488&perks=776531651, 2048641572 //PVE AllAround- RepBrace+Destable [axeraider15]
+dimwishlist:item=2271714488&perks=588594999, 776531651, 957782887, 2048641572 //PVE AllAround- RepBrace+Destable .. PVP AllAround- MovTarg+Snapshot [axeraider15]
 
 // Chattering Bone - 6/6 Absolute God Roll (S-Tier Double Damage Stack)
 //notes: S-Tier perks. Kill Clip scales Kinetic Tremors shockwaves. Absolute room clearer. |tags:axeraider15 pve pve-god
