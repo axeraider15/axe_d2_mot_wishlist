@@ -19,7 +19,7 @@ def get_annotated_combinations(annotated_pairs):
             for _, note in combo:
                 if note not in notes_involved:  # Avoid repeating duplicate notes
                     notes_involved.append(note)
-            combined_note = " + ".join(notes_involved)
+            combined_note = " .. ".join(notes_involved)
             
             # 3. Store the result 
             if sorted_items not in all_combinations:
@@ -41,8 +41,43 @@ input_data = [
     (("Sl", "Hat"), "Express Route")
 ]
 
+
+print("// DIABLERETS 06")
+gun_id = [1120206506]
+input_data = [
+    ((1820235745, 557221067), "PVE AdClear- Subsi+KillTally"),
+    ((831391274, 657025441), "PVE StrandUtil- Hatch+Megan"),
+    ((831391274, 3108830275), "PVE StrandUtil- Hatch+Unrelent"),
+    ((243981275, 657025441), "PVE StrandUtil- AttOrbs+Megan"),
+    ((243981275, 3108830275), "PVE StrandUtil- AttOrbs+Unrelent"),
+    ((3300816228, 365154968), "PVE ChampKill- AutoLoad+TargLock"),
+    ((3300816228, 3201496230), "PVE ChampKill- AutoLoad+Redirect"),
+    ((2846385770, 588594999), "PVP AllAround- RangeFind+MovTarg"),
+    ((2846385770, 1194056669), "PVP AllAround- RangeFind+ClosingT")
+]
+
 results = get_annotated_combinations(input_data)
 
+
+'''
 # Print the results nicely
 for items, notes in results:
-    print(f"Combination: {items} -> Notes: [{notes}]")
+    #print(f"Combination: {items} -> Notes: [{notes}]")
+    #print(f"{items} //{notes} [axeraider15]")
+    print(f"dimwishlist:item={gun_id}&perks={items} //{notes} [axeraider15]".replace(")", "").replace("(","").replace(", ",","))
+'''
+finallist = []
+
+for gid in gun_id:
+    # Print the results nicely
+    for items, notes in results:
+        #print(f"Combination: {items} -> Notes: [{notes}]")
+        #print(f"{items} //{notes} [axeraider15]")
+        #print(f"dimwishlist:item={gid}&perks={items} //{notes} [axeraider15]".replace(")", "").replace("(","").replace(", ",","))
+        finallist.append(f"dimwishlist:item={gid}&perks={items} //{notes} [axeraider15]".replace(")", "").replace("(","").replace(", ",","))
+
+finallist.reverse()
+for x in finallist:
+    print(x)
+
+input('paused')
