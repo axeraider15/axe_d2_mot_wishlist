@@ -133,6 +133,14 @@ dimwishlist:item=4046741099&perks=1645158859,2213355989,2846385770 //2: PVP AllA
 dimwishlist:item=4046741099&perks=1645158859,1890422124 //1: PVP AllAround- UnderPres+TapTrig [axeraider15]
 dimwishlist:item=4046741099&perks=1645158859,2213355989 //1: PVP AllAround- UnderPres+HighImpRes [axeraider15]
 dimwishlist:item=4046741099&perks=1645158859,2846385770 //1: PVP AllAround- UnderPres+RangeFind [axeraider15]
+// Main Ingredient (MW)
+dimwishlist:item=2901221332&perks=1645158859,1890422124,2213355989,2846385770 //3: PVP AllAround- UnderPres+TapTrig .. PVP AllAround- UnderPres+HighImpRes .. PVP AllAround- UnderPres+RangeFind [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,1890422124,2213355989 //2: PVP AllAround- UnderPres+TapTrig .. PVP AllAround- UnderPres+HighImpRes [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,1890422124,2846385770 //2: PVP AllAround- UnderPres+TapTrig .. PVP AllAround- UnderPres+RangeFind [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,2213355989,2846385770 //2: PVP AllAround- UnderPres+HighImpRes .. PVP AllAround- UnderPres+RangeFind [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,1890422124 //1: PVP AllAround- UnderPres+TapTrig [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,2213355989 //1: PVP AllAround- UnderPres+HighImpRes [axeraider15]
+dimwishlist:item=2901221332&perks=1645158859,2846385770 //1: PVP AllAround- UnderPres+RangeFind [axeraider15]
 
 
 // VEILLANTIF-D
