@@ -155,7 +155,22 @@ dimwishlist:item=1361871430&perks=3764420437,4223976499 //1: PVE AllAround- Heal
 
 
 
-
+// TAHOMA 01
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //4: PVE AllAround- Overflow+ResBurst .. PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ResBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //3: PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ResBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //3: PVE AllAround- Overflow+ResBurst .. PVE AllAround- LeadGold+ResBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //3: PVE AllAround- Overflow+ResBurst .. PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //3: PVE AllAround- Overflow+ResBurst .. PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ResBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626 //2: PVE AllAround- LeadGold+ResBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,3643424744 //2: PVE AllAround- Overflow+ResBurst .. PVE AllAround- LeadGold+ResBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,2594592626,3643424744 //2: PVE AllAround- Overflow+ResBurst .. PVE AllAround- Overflow+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1556840489,2594592626,3643424744 //2: PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //2: PVE AllAround- Overflow+ContrBurst .. PVE AllAround- LeadGold+ResBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489,2594592626,3643424744 //2: PVE AllAround- Overflow+ResBurst .. PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,1556840489 //1: PVE AllAround- LeadGold+ResBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1427256713,3643424744 //1: PVE AllAround- Overflow+ResBurst [axeraider15]
+dimwishlist:item=1225851434&perks=1556840489,2594592626 //1: PVE AllAround- LeadGold+ContrBurst [axeraider15]
+dimwishlist:item=1225851434&perks=2594592626,3643424744 //1: PVE AllAround- Overflow+ContrBurst [axeraider15]
 
 
 
